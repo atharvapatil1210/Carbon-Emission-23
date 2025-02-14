@@ -1,0 +1,32 @@
+Date,CO2 Emissions (kg),Scope_manufacturing,CO2 Emissions (kg CO2),Scope_logistics,CO2 Emissions (kg)_offices,Scope,CO2 Emissions (kg)_employee,Scope_employee,Product ID,CO2 Emissions from Product Use (kg CO2),Scope_product,CO2 Emissions from Product Use (kg CO2)_rnd,Scope_rnd,CO2 Emissions (kg CO2)_iot,Scope_iot,CO2 Emissions (kg CO2)_electricity,Scope_electricity,Total_CO2_Emissions (kg)
+01-03-2025,10.0,Scope 1,560,Scope 3,320,,10.0,Scope 3,E+H001,600,Scope 3,600,Scope 1,20.0,Scope 3,560,Scope 2,2680.0
+02-03-2025,20.0,Scope 1,580,Scope 3,340,,20.0,Scope 3,E+H002,1050,Scope 3,1050,Scope 1,,Scope 3,580,Scope 2,3640.0
+03-03-2025,8.75,Scope 1,600,Scope 3,348,Scope 1,8.75,Scope 3,E+H003,600,Scope 3,600,Scope 1,18.0,Scope 3,600,Scope 2,2783.5
+04-03-2025,12.5,Scope 1,640,Scope 3,312,,12.5,Scope 3,E+H004,1040,Scope 3,1040,Scope 1,,Scope 3,640,Scope 2,3697.0
+05-03-2025,20.0,Scope 1,620,Scope 3,360,Scope 3,20.0,Scope 3,E+H005,550,Scope 3,550,Scope 1,24.0,Scope 3,620,Scope 2,2764.0
+06-03-2025,25.0,Scope 1,560,Scope 3,352,Scope 2,25.0,Scope 3,E+H006,980,Scope 3,980,Scope 1,,Scope 3,560,Scope 2,3482.0
+07-03-2025,11.25,Scope 1,540,Scope 3,324,,11.25,Scope 3,E+H007,720,Scope 3,720,Scope 1,22.0,Scope 3,540,Scope 2,2888.5
+08-03-2025,17.5,Scope 1,520,Scope 3,344,Scope 3,17.5,Scope 3,E+H008,690,Scope 3,690,Scope 1,,Scope 3,520,Scope 2,2799.0
+09-03-2025,7.5,Scope 1,480,Scope 3,340,Scope 3,7.5,Scope 3,E+H009,1080,Scope 3,1080,Scope 1,20.0,Scope 3,480,Scope 2,3495.0
+10-03-2025,22.5,Scope 1,500,Scope 3,332,,22.5,Scope 3,E+H010,625,Scope 3,625,Scope 1,,Scope 3,500,Scope 2,2627.0
+11-03-2025,10.0,Scope 1,520,Scope 3,328,,10.0,Scope 3,E+H001,600,Scope 3,600,Scope 1,20.0,Scope 3,520,Scope 2,2608.0
+12-03-2025,20.0,Scope 1,560,Scope 3,344,Scope 3,20.0,Scope 3,E+H002,1050,Scope 3,1050,Scope 1,,Scope 3,560,Scope 2,3604.0
+13-03-2025,8.75,Scope 1,580,Scope 3,352,Scope 1,8.75,Scope 3,E+H003,600,Scope 3,600,Scope 1,18.0,Scope 3,580,Scope 2,2747.5
+14-03-2025,12.5,Scope 1,600,Scope 3,360,Scope 1,12.5,Scope 3,E+H004,1040,Scope 3,1040,Scope 1,,Scope 3,600,Scope 2,3665.0
+15-03-2025,20.0,Scope 1,620,Scope 3,348,Scope 3,20.0,Scope 3,E+H005,550,Scope 3,550,Scope 1,24.0,Scope 3,620,Scope 2,2752.0
+16-03-2025,25.0,Scope 1,640,Scope 3,324,Scope 3,25.0,Scope 3,E+H006,980,Scope 3,980,Scope 1,,Scope 3,640,Scope 2,3614.0
+17-03-2025,11.25,Scope 1,580,Scope 3,332,,11.25,Scope 3,E+H007,720,Scope 3,720,Scope 1,22.0,Scope 3,580,Scope 2,2976.5
+18-03-2025,17.5,Scope 1,560,Scope 3,344,,17.5,Scope 3,E+H008,690,Scope 3,690,Scope 1,,Scope 3,560,Scope 2,2879.0
+19-03-2025,7.5,Scope 1,520,Scope 3,352,,7.5,Scope 3,E+H009,1080,Scope 3,1080,Scope 1,20.0,Scope 3,520,Scope 2,3587.0
+20-03-2025,22.5,Scope 1,500,Scope 3,340,,22.5,Scope 3,E+H010,625,Scope 3,625,Scope 1,,Scope 3,500,Scope 2,2635.0
+21-03-2025,10.0,Scope 1,480,Scope 3,328,,10.0,Scope 3,E+H001,600,Scope 3,600,Scope 1,20.0,Scope 3,480,Scope 2,2528.0
+22-03-2025,20.0,Scope 1,520,Scope 3,320,,20.0,Scope 3,E+H002,1050,Scope 3,1050,Scope 1,,Scope 3,520,Scope 2,3500.0
+23-03-2025,8.75,Scope 1,560,Scope 3,348,,8.75,Scope 3,E+H003,600,Scope 3,600,Scope 1,18.0,Scope 3,560,Scope 2,2703.5
+24-03-2025,12.5,Scope 1,580,Scope 3,344,,12.5,Scope 3,E+H004,1040,Scope 3,1040,Scope 1,,Scope 3,580,Scope 2,3609.0
+25-03-2025,20.0,Scope 1,600,Scope 3,352,,20.0,Scope 3,E+H005,550,Scope 3,550,Scope 1,24.0,Scope 3,600,Scope 2,2716.0
+26-03-2025,25.0,Scope 1,620,Scope 3,360,,25.0,Scope 3,E+H006,980,Scope 3,980,Scope 1,,Scope 3,620,Scope 2,3610.0
+27-03-2025,11.25,Scope 1,640,Scope 3,332,,11.25,Scope 3,E+H007,720,Scope 3,720,Scope 1,22.0,Scope 3,640,Scope 2,3096.5
+28-03-2025,17.5,Scope 1,580,Scope 3,328,,17.5,Scope 3,E+H008,690,Scope 3,690,Scope 1,,Scope 3,580,Scope 2,2903.0
+29-03-2025,7.5,Scope 1,560,Scope 3,340,,7.5,Scope 3,E+H009,1080,Scope 3,1080,Scope 1,20.0,Scope 3,560,Scope 2,3655.0
+30-03-2025,22.5,Scope 1,520,Scope 3,348,,22.5,Scope 3,E+H010,625,Scope 3,625,Scope 1,,Scope 3,520,Scope 2,2683.0
+31-03-2025,10.0,Scope 1,500,Scope 3,352,,10.0,Scope 3,E+H001,600,Scope 3,600,Scope 1,20.0,Scope 3,500,Scope 2,2592.0
